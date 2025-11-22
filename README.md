@@ -1,4 +1,4 @@
-## 監査ログ/スナップショット方式でのマスタの履歴管理([drf/sample]master_audit_log)
+## 監査ログ/スナップショット方式でのマスタの履歴管理(drf-sample__master_audit_log)
 
 --- 
 
